@@ -6,6 +6,10 @@
 
 ###
 
+<h4 align="center">95% of my repositories are private since they are personal projects/freelance work</h4>
+
+<hr />
+
 <p align="center">Languages & Tools 💻</p>
 
 ###
